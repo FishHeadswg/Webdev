@@ -1,4 +1,2 @@
-Webdev
-======
 
-Random web projects
+Web stuff
